@@ -1,6 +1,8 @@
 package com.tns.programs;
 
 public class firstprogram {
-  main
+     public static void main(String[] args) {
+    	 System.out.println("welcome to java");
+     }
 	
 }
